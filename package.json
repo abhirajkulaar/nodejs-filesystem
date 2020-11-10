@@ -1,0 +1,23 @@
+{
+  "name": "node-filesystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhirajkulaar/nodejs-filesystem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhirajkulaar/nodejs-filesystem/issues"
+  },
+  "homepage": "https://github.com/abhirajkulaar/nodejs-filesystem#readme",
+  "dependencies": {
+    "dayjs": "^1.9.6",
+    "express": "^4.17.1"
+  }
+}
