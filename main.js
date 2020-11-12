@@ -29,7 +29,7 @@ app
 .get("/files/:folder",(request,response)=>{
 
     fs.readdir(request.params.folder,(error,files)=>{
-        response.json(files)
+        response.json({status:"success",folderName:request.params.folder,files:files})
     })
 
 
