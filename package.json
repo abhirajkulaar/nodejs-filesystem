@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/abhirajkulaar/nodejs-filesystem#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "dayjs": "^1.9.6",
     "express": "^4.17.1"
   }
